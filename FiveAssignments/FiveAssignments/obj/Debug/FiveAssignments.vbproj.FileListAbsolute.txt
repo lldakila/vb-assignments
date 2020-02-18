@@ -1,0 +1,15 @@
+C:\MyDatabase\FiveAssignments\FiveAssignments\bin\Debug\FiveAssignments.exe.config
+C:\MyDatabase\FiveAssignments\FiveAssignments\bin\Debug\FiveAssignments.exe
+C:\MyDatabase\FiveAssignments\FiveAssignments\bin\Debug\FiveAssignments.pdb
+C:\MyDatabase\FiveAssignments\FiveAssignments\bin\Debug\FiveAssignments.xml
+C:\MyDatabase\FiveAssignments\FiveAssignments\obj\Debug\FiveAssignments.vbprojResolveAssemblyReference.cache
+C:\MyDatabase\FiveAssignments\FiveAssignments\obj\Debug\FiveAssignments.Resources.resources
+C:\MyDatabase\FiveAssignments\FiveAssignments\obj\Debug\FiveAssignments.vbproj.GenerateResource.Cache
+C:\MyDatabase\FiveAssignments\FiveAssignments\obj\Debug\FiveAssignments.exe
+C:\MyDatabase\FiveAssignments\FiveAssignments\obj\Debug\FiveAssignments.xml
+C:\MyDatabase\FiveAssignments\FiveAssignments\obj\Debug\FiveAssignments.pdb
+C:\MyDatabase\FiveAssignments\FiveAssignments\obj\Debug\FiveAssignments.FormUsername.resources
+C:\MyDatabase\FiveAssignments\FiveAssignments\obj\Debug\FiveAssignments.FormPalindrome.resources
+C:\MyDatabase\FiveAssignments\FiveAssignments\obj\Debug\FiveAssignments.FirstLetterInWord.resources
+C:\MyDatabase\FiveAssignments\FiveAssignments\obj\Debug\FiveAssignments.EncryptDecrypt.resources
+C:\MyDatabase\FiveAssignments\FiveAssignments\obj\Debug\FiveAssignments.FormItems.resources
